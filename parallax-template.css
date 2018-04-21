@@ -71,3 +71,6 @@ footer.page-footer {
 html .brand-logo j{
     font-family: Pacifico, Calibri, Trebuchet, sans-serif;
   }
+
+.prix{border: 1px solid grey}
+.prix tr td{padding-left: 20px}
